@@ -24,7 +24,7 @@
 
 ### Executando a aplicação
 
-Para executar a aplicação é simples, basta abrir a classe `TasksApiApiApplication` e ativar  `run` ou `debug` em sua IDE.
+Para executar a aplicação é simples, basta abrir a classe `TasksApiApplication` e ativar `run` em sua IDE.
 
 ou executar o comando abaixo:
 
