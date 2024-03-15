@@ -1,11 +1,11 @@
 # Teste para Backend - Perinity
 
 #### Autor
-1. [ ] [Fábio Souza](https://github.com/fhssouza)
+1. [x] [Fábio Souza](https://github.com/fhssouza)
 
 ## Task-API
 
-1. [ ] Api para Tarefas
+1. [x] Api para Tarefas
 
 ### Tecnologias
 
@@ -24,17 +24,21 @@
 
 ### Executando a aplicação
 
-Para executar a aplicação é simples, basta abrir a classe `TasksApiApplication` e ativar `run` em sua IDE.
-
-ou executar o comando abaixo:
+1. [x] Em ambiente de desenvolvimento:
 
 ```shell
 mvn spring-boot:run
 ```
 
+1. [x] Em ambiente de desenvolvimento:
+
+```shell
+docker-compose up
+```
+
 ### Endpoint OpenAPI Swagger
 
-1. [ ] [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/clickdesp/swagger-ui/index.html)
+1. [x] [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html#/)
 
 
 
