@@ -30,7 +30,7 @@
 mvn spring-boot:run
 ```
 
-1. [x] Em ambiente de desenvolvimento:
+1. [x] Em ambiente de produção:
 
 ```shell
 docker-compose up
